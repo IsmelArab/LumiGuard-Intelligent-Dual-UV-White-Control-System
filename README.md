@@ -1,6 +1,6 @@
 # LumiGuard-Intelligent-Dual-UV-White-Control-System
 
-Objetivo del Proyecto:
+# Objetivo del Proyecto:
 
 El objetivo de LumiGuard es brindar una solución integral para aplicaciones que requieren:
 
@@ -13,7 +13,8 @@ Seguridad inteligente: Detección de proximidad para desactivar automáticamente
 Eficiencia energética: Control PWM de LEDs y modo bajo consumo.
 
 
-Componentes y Tecnologías Clave:
+# Componentes y Tecnologías Clave:
+
 El corazón de LumiGuard integra tecnologías modernas y componentes de alta calidad:
 
 Microcontrolador ATtiny85:
