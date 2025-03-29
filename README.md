@@ -1,48 +1,47 @@
 # LumiGuard-Intelligent-Dual-UV-White-Control-System
 
-# Objetivo del Proyecto:
+# Project Objective:
 
-El objetivo de LumiGuard es brindar una solución integral para aplicaciones que requieren:
+LumiGuard's goal is to provide a comprehensive solution for applications that require:
 
-Desinfección UV eficiente: Utilizando luz ultravioleta de onda corta (275 nm) para eliminar patógenos sin riesgos para operadores.
+Efficient UV disinfection: Using short-wavelength ultraviolet light (275 nm) to eliminate pathogens without risk to operators.
 
-Iluminación blanca ajustable: Para visualización de procesos en tiempo real.
+Adjustable white lighting: For real-time process visualization.
 
-Seguridad inteligente: Detección de proximidad para desactivar automáticamente la luz UV si un operador se acerca.
+Smart security: Proximity detection automatically deactivates UV light if an operator approaches.
 
-Eficiencia energética: Control PWM de LEDs y modo bajo consumo.
+Energy efficiency: PWM control of LEDs and low-power mode.
 
 
-# Componentes y Tecnologías Clave:
+# Key Components and Technologies:
 
-El corazón de LumiGuard integra tecnologías modernas y componentes de alta calidad:
+The heart of LumiGuard integrates modern technologies and high-quality components:
 
-Microcontrolador ATtiny85:
+ATtiny85 Microcontroller:
 
-Cerebro del sistema, gestiona modos de operación, señales PWM y comunicación I2C.
+The brain of the system manages operating modes, PWM signals, and I2C communication.
 
-Sensor de Proximidad VCNL4040:
+VCNL4040 Proximity Sensor:
 
-Detecta presencia humana hasta 20 cm de distancia, activando protocolos de seguridad.
+Detects human presence up to 20 cm away, activating safety protocols.
 
-LEDs Especializados:
+Specialized LEDs:
 
-UV (275 nm): Para desinfección.
+UV (275 nm): For disinfection.
 
-Blancos (5630 SMD): Para iluminación fría y ajustable.
+White (5630 SMD): For cool, adjustable lighting.
 
-Control MOSFET (DMN3010LSS):
+MOSFET Control (DMN3010LSS):
 
-Regula intensidad lumínica mediante PWM, minimizando pérdidas energéticas.
+Adjusts light intensity via PWM, minimizing energy losses
 
-Diseño PCB Profesional:
+Professional PCB Design:
 
-2 capas con plano de tierra sólido.
+2 layers with a solid ground plane.
 
-Filtrado de ruido, separación analógico/digital y serigrafía personalizada.
+Noise filtering, analog/digital separation, and custom silkscreen printing.
 
-Interfaz de Programación (USBasp):
+Programming Interface (USBasp):
 
-Conector ISP para actualizaciones de firmware.
-
+ISP connector for firmware updates.
 
